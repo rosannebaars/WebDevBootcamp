@@ -1,0 +1,32 @@
+body{
+  background-color: #FAFAFA;
+  margin-left: 30px;
+  margin-right: 30px;
+};
+
+#ccinfo {
+  color: #A4A4A4;
+  font-size: 8px;
+}
+
+img{
+  max-height: 300px;
+}
+
+.blue {
+  background-color: #EFF5FB;
+}
+
+.white {
+  padding-top: 25px;
+  background-color: white;
+}
+
+.t2{
+  padding: 25px;
+}
+
+
+h5:hover, h5:focus, h5:active, h5:visited, .active {
+    text-decoration: underline #A5DF00;
+}
